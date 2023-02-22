@@ -8,9 +8,9 @@
     */
 
 bool func(int a) {
-  return a.isOdd;
+  return a%3==0;
 }
 
 void main() {
-  print(func(4));
+  print(func(9));
 }
