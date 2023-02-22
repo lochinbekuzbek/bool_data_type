@@ -8,9 +8,9 @@
     */
 
 bool func(int a) {
-  return a <=5;
+  return a <=0;
 }
 
 void main() {
-  print(func(5));
+  print(func(0));
 }
