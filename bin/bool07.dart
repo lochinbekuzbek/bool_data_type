@@ -8,10 +8,10 @@
         bool
     */
 
-bool func(int a, b) {
+bool func(int a,int b) {
   return a != b;
 }
 
 void main() {
-  print(func(6, 8));
+  print(func(6,7));
 }
