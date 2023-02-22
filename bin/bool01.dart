@@ -9,8 +9,14 @@
   */
 
 
-void main() {}
+bool func(int a,b) {
+  return a==b;
 
+  
+}
+void main(){
+  print( func(2,2));
+}
 
 
 
